@@ -1,4 +1,4 @@
-name: 🔎 Recon
+name: 🔎 ReconFull
 
 on:
     workflow_dispatch:
