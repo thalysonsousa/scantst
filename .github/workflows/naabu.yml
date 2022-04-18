@@ -1,5 +1,0 @@
-- name: Naabu - Port Scannner
-  uses: projectdiscovery/naabu-action@main
-  with:
-      list: hosts.txt
-      output: urls.txt
