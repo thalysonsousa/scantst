@@ -1,0 +1,5 @@
+      - name: Nuclei - DAST Scan
+        uses: fguisso/nuclei-action@inputs
+        with:
+          urls: urls.txt
+          output: nuclei.txt
